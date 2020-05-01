@@ -178,6 +178,10 @@ input[type=text]:placeholder, input[type=email]:placeholder {
 @-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 
+.logo {
+  margin-top: 50px;
+}
+
 .fadeIn {
   opacity:0;
   -webkit-animation:fadeIn ease-in 1;
