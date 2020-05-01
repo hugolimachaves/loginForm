@@ -3,7 +3,7 @@
 }
 
 a {
-  color: #92badd;
+  color: #38628a;
   display:inline-block;
   text-decoration: none;
   font-weight: 400;
@@ -15,7 +15,7 @@ h2 {
   font-weight: 500;
   text-transform: uppercase;
   display:inline-block;
-  color: #56baed;
+  color: #38628a;
 }
 
 
@@ -62,7 +62,7 @@ h2.inactive {
 
 h2.active {
   color: #0d0d0d;
-  border-bottom: 2px solid #5fbae9;
+  border-bottom: 2px solid #2ece49;
 }
 
 
@@ -70,7 +70,7 @@ h2.active {
 /* FORM TYPOGRAPHY*/
 
 input[type=button], input[type=submit], input[type=reset]  {
-  background-color: #56baed;
+  background-color: #38628a;
   border: none;
   color: white;
   width: 85%;
@@ -92,7 +92,7 @@ input[type=button], input[type=submit], input[type=reset]  {
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
-  background-color: #39ace7;
+  background-color: #2ece49;
 }
 
 input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
@@ -126,7 +126,7 @@ input[type=text], input[type=email] {
 
 input[type=text]:focus, input[type=email]:focus{
   background-color: #fff;
-  border-bottom: 2px solid #5fbae9;
+  border-bottom: 2px solid #2ece49;
 }
 
 input[type=text]:placeholder, input[type=email]:placeholder {
@@ -226,13 +226,13 @@ input[type=text]:placeholder, input[type=email]:placeholder {
   display: block;
   width: 0;
   height: 2px;
-  background-color: #56baed;
+  background-color: #38628a;
   content: "";
   transition: width 0.2s;
 }
 
 .underlineHover:hover {
-  color: #0d0d0d;
+  color: #38628a;
 }
 
 .underlineHover:hover:after{
