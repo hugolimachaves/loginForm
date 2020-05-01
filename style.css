@@ -179,7 +179,7 @@ input[type=text]:placeholder, input[type=email]:placeholder {
 @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 
 .logo {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .fadeIn {
